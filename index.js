@@ -1,4 +1,3 @@
-import { get } from "mongoose"
 import Product from "./Product.js"
 
 async function addProduct(product) {
